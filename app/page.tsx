@@ -17,21 +17,22 @@ const Home = () => {
           <p>
             My past almost half-decade professional years have been spent in Javascript and{' '}
             <em>TypeScript</em>, mostly in <em>React</em>. I truly enjoy working within JavaScript,
-            learning about JavaScript, and simply how web browsers work. I can't imagine not working
-            in TypeScript these days, even though it makes me feel dumber and dumber almost any time
-            I use it. I have touched so much else of <em>modern front-end tooling</em> ranging from
-            Vue, Astro, Tailwind, GraphQL, various headless CMSs, and various component libraries.
+            learning about JavaScript, and am simply how the web works. I can't imagine not working
+            in TypeScript these days, even though it makes me feel dumber and dumber everyday. I
+            have touched so much else of <em>modern front-end tooling</em> ranging from Vue, Astro,
+            NextJS, Tailwind, GraphQL, various headless CMSs, and various component libraries.
           </p>
 
           <p>
-            Prior to focusing on front-end engineering I spent my previous half decade in a web
-            developer role. This was before React and modern front-end development as we know it.
+            Prior to focusing on front-end software development I spent my first professional half
+            decade in a web developer role working with and managing PHP-based websites. This was
+            before React and modern front-end development as we know it took off.
           </p>
 
           <p>
             I add immense value not just as an engineer, but a team member. I pride myself on
             continuously improving, always showing up, and being an <em>authentic</em> person peers
-            want to work with.
+            want to work with and can rely on.
           </p>
 
           <div className="flex flex-row gap-4">
