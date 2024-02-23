@@ -1,6 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer base {
+  p {
+    font-family: "Proxima Nova", system-ui, sans-serif;
+  }
+  h1 {
+    font-family: "Bungee", system-ui, sans-serif;
+
+  }
+  h2 {
+    font-weight: 600;
+  }
+  em {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+}
 
 :root {
   --foreground-rgb: 0, 0, 0;
