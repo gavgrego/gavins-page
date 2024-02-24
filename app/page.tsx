@@ -24,9 +24,9 @@ const Home = () => {
           </p>
 
           <p>
-            Prior to focusing on front-end software development I spent my first professional half a
-            decade in a web developer role working with and managing PHP-based websites. This was
-            before React and modern front-end development as we know it took off.
+            Before narrowing my focus on front-end software development, I spent five years managing
+            PHP-based websites, a time before the rise of React and contemporary front-end
+            development.
           </p>
 
           <p>
