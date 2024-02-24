@@ -16,11 +16,11 @@ const Home = () => {
 
           <p>
             My past almost half a decade of professional years have been spent in Javascript and{' '}
-            <em>TypeScript</em>, mostly in <em>React</em>. I truly enjoy working within JavaScript,
-            learning about JavaScript, and am simply how the web works. I can't imagine not working
-            in TypeScript these days, even though it makes me feel dumber and dumber everyday. I
-            have touched so much else of <em>modern front-end tooling</em> ranging from Vue, Astro,
-            NextJS, Tailwind, GraphQL, various headless CMSs, and various component libraries.
+            <em>TypeScript</em>, mostly in <em>React</em>. I can't imagine not working in TypeScript
+            these days, even though it often makes me feel dumb. I truly enjoy working within
+            JavaScript, learning about JavaScript, and simply how the web works. I have touched so
+            much else of <em>modern front-end tooling</em> ranging from Vue, Astro, NextJS,
+            Tailwind, GraphQL, various headless CMSs, and various component libraries.
           </p>
 
           <p>
