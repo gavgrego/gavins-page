@@ -23,6 +23,12 @@ const Home = () => {
             Tailwind, GraphQL, various headless CMSs, and various component libraries.
           </p>
 
+          <p className="text-sm">
+            I also have experience and an interest in Technical Writing. I have contributed to
+            documentation for a large component library using Docusaurus, and love to write and blog
+            in my spare time.
+          </p>
+
           <p>
             Before narrowing my focus on front-end software development, I spent five years managing
             PHP-based websites, a time before the rise of React and contemporary front-end
@@ -38,8 +44,9 @@ const Home = () => {
           <div className="flex flex-row gap-4">
             <p className="bg-tie-dye bg-top rounded-md  font-semibold text-cream-100  text-sm p-4 leading-6 shadow-md">
               I have resided in the San Francisco Bay Area in beautiful Marin County with my wife
-              since the Summer of 2021, previously residing in Indianapolis. I love to travel, spend
-              time outside, attend concerts, and spin up a side project or two a year.
+              since the Summer of 2021, previously residing in Indianapolis. I love traveliing,
+              writing, photography, spending time outside, going to concerts, and spinning up a side
+              project or two a year.
             </p>
           </div>
 
