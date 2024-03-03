@@ -23,12 +23,6 @@ const Home = () => {
             Tailwind, GraphQL, various headless CMSs, and various component libraries.
           </p>
 
-          <p className="text-sm">
-            I also have experience and an interest in Technical Writing. I have contributed to
-            documentation for a large component library using Docusaurus, and love to write and blog
-            in my spare time.
-          </p>
-
           <p>
             Before narrowing my focus on front-end software development, I spent five years managing
             PHP-based websites, a time before the rise of React and contemporary front-end
