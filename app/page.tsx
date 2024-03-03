@@ -15,11 +15,11 @@ const Home = () => {
           <p>I have been engrossed by the internet since I was in kindergarten.</p>
 
           <p>
-            My past almost half a decade of professional years have been spent in Javascript and{' '}
+            My past almost half-decade of professional years have been spent in Javascript and{' '}
             <em>TypeScript</em>, mostly in <em>React</em>. I can't imagine not working in TypeScript
             these days, even though it often makes me feel dumb. I truly enjoy working within
-            JavaScript, learning about JavaScript, and simply how the web works. I have touched so
-            much else of <em>modern front-end tooling</em> ranging from Vue, Astro, NextJS,
+            JavaScript, learning about JavaScript, and simply how the web works. I have also touched
+            so much else of <em>modern front-end tooling</em> ranging from Vue, Astro, NextJS,
             Tailwind, GraphQL, various headless CMSs, and various component libraries.
           </p>
 
@@ -38,7 +38,7 @@ const Home = () => {
           <div className="flex flex-row gap-4">
             <p className="bg-tie-dye bg-top rounded-md  font-semibold text-cream-100  text-sm p-4 leading-6 shadow-md">
               I have resided in the San Francisco Bay Area in beautiful Marin County with my wife
-              since the Summer of 2021, previously residing in Indianapolis. I love traveliing,
+              since the Summer of 2021, previously residing in Indianapolis. I love traveling,
               writing, photography, spending time outside, going to concerts, and spinning up a side
               project or two a year.
             </p>
