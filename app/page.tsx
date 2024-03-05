@@ -20,7 +20,8 @@ const Home = () => {
             these days, even though it often makes me feel dumb. I truly enjoy working within
             JavaScript, learning about JavaScript, and simply how the web works. I have also touched
             so much else of <em>modern front-end tooling</em> ranging from Vue, Astro, NextJS,
-            Tailwind, GraphQL, various headless CMSs, and various component libraries.
+            Tailwind, GraphQL, various headless CMSs, and various component libraries. Currently
+            spending some free time learning Go.
           </p>
 
           <p>
