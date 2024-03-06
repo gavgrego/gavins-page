@@ -32,8 +32,8 @@ const Home = () => {
 
           <p>
             I add immense value not just as an engineer, but a team member. I pride myself on
-            continuously improving, always showing up, and being an <em>authentic</em> person peers
-            want to work with and can rely on.
+            continuously improving, always showing up, and being an authentic person peers want to
+            work with and can rely on.
           </p>
 
           <div className="flex flex-row gap-4">
