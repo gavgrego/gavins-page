@@ -6,7 +6,7 @@ const Home = () => {
       <div className="container flex flex-col justify-center h-full py-4">
         <div className="flex flex-col mb-6">
           <h1 className="text-purple-300 text-5xl md:text-7xl lg:text-9xl">Gavin Gregory</h1>
-          <h2 className="text-zinc-400 uppercase tracking-wider text-xl md:text-3xl">
+          <h2 className="text-zinc-400 uppercase tracking-wider font-bold text-xl md:text-3xl">
             Software Engineer and Web Developer
           </h2>
         </div>
@@ -20,14 +20,15 @@ const Home = () => {
             these days, even though it often makes me feel dumb. I truly enjoy working within
             JavaScript, learning about JavaScript, and simply how the web works. I have also touched
             so much else of <em>modern front-end tooling</em> ranging from Vue, Astro, NextJS,
-            Tailwind, GraphQL, various headless CMSs, and various component libraries. Currently
-            spending some free time learning Go.
+            Tailwind, GraphQL, various headless CMSs, and various component libraries.
           </p>
 
           <p>
             Before narrowing my focus on front-end software development, I spent five years managing
             PHP-based websites, a time before the rise of React and contemporary front-end
-            development.
+            development. While most of my experience is in front-end development, I also have some
+            experience in back-end development developing APIs (Node, Laravel, Go), and I am
+            confident I would succeed in a full-stack role given the opportunity.
           </p>
 
           <p>
