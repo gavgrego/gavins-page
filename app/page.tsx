@@ -26,9 +26,8 @@ const Home = () => {
           <p>
             Before narrowing my focus on front-end software development, I spent five years managing
             PHP-based websites, a time before the rise of React and contemporary front-end
-            development. While most of my experience is in front-end development, I also have some
-            experience in back-end development developing APIs (Node, Laravel, Go), and I am
-            confident I would succeed in a full-stack role given the opportunity.
+            development. While the majority of my experience is in front-end development, I also
+            have some experience in back-end development with Laravel, Go, and Node.
           </p>
 
           <p>
