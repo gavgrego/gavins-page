@@ -19,7 +19,7 @@ const Home = () => {
             </p>
 
             <p>
-              My past almost half-decade of professional years have been spent in Javascript and{' '}
+              My most recent half-decade of professional years have been spent in Javascript and{' '}
               <em>TypeScript</em>, mostly in <em>React</em>. I truly enjoy working within
               JavaScript, learning about JavaScript, and how the web works as a whole. I have also
               touched so much else of <em>modern front-end and full-stack tooling</em> ranging from{' '}
