@@ -3,6 +3,7 @@
 import { Copy, EnvelopeSimple, GithubLogo, LinkedinLogo, File } from 'phosphor-react'
 import Modal from '../Modal'
 import { useState } from 'react'
+
 type SocialProps = {
   github: string
   email: string
@@ -23,22 +24,9 @@ const Social = ({ ...props }: SocialProps) => {
 
   return (
     <div className="flex flex-row gap-3">
-      <Modal
-        trigger={<GithubLogo size={32} weight="bold" className="cursor-pointer hover:opacity-60" />}
-      >
-        <div className="flex flex-col gap-4">
-          <p>
-            What's posted on my Github is not indicative of 95% of my coding. I am trying to get
-            better at pushing up personal projects and refactoring old ones.
-          </p>
-
-          <div className="flex justify-center w-full">
-            <a href={props.github} target="_blank">
-              <GithubLogo size={48} weight="regular" className="cursor-pointer hover:opacity-85" />
-            </a>
-          </div>
-        </div>
-      </Modal>
+      <a href={props.github} target="_blank">
+        <GithubLogo size={32} weight="bold" className="cursor-pointer hover:opacity-60" />
+      </a>
 
       <Modal
         trigger={
