@@ -2,8 +2,8 @@ import Social from './components/Social'
 
 const Home = () => {
   return (
-    <main className="py-8 bg-cream-100">
-      <div className="md:h-screen  text-black">
+    <main className="md:py-8 py-2 bg-cream-100">
+      <div className=" text-black">
         <div className="container flex flex-col justify-center h-full py-4">
           <div className="flex flex-col mb-6">
             <h1 className="text-purple-300 text-5xl md:text-7xl lg:text-9xl">Gavin Gregory</h1>
