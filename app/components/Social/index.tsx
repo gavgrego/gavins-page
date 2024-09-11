@@ -40,25 +40,21 @@ const Social = ({ ...props }: SocialProps) => {
               <Copy
                 size={16}
                 className="cursor-pointer"
-                onClick={() => copyToClipboard('gavgrego@gmail.com')}
+                onClick={() => copyToClipboard(props.email)}
               />
             </div>
             {textCopied && <p>{textCopied}</p>}
           </div>
 
           <div className="flex justify-center w-full">
-            <a href="mailto:gavgrego@gmail.com" target="_blank" className="underline">
+            <a href={`mailto:${props.email}`} target="_blank" className="underline">
               Or open your default mail client.
             </a>
           </div>
         </div>
       </Modal>
 
-      <a
-        target="_blank"
-        href="https://www.linkedin.com/in/gavin-gregory-7aa3b557/"
-        className="hover:opacity-60"
-      >
+      <a target="_blank" href={props.linkedin} className="hover:opacity-60">
         <LinkedinLogo size={32} weight="bold" className="cursor-pointer" />
       </a>
 

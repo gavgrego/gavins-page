@@ -15,23 +15,22 @@ const Home = () => {
           <div className="flex flex-col gap-8 text-xl">
             <p>
               I have been engrossed with how the internet works since kindergarten, spending my time
-              creating rudimentary websites as a child.
+              creating rudimentary websites as a child. Now I am a seasoned software engineer with{' '}
+              <em>around a decade of experience</em> in various web and software technologies.
             </p>
 
             <p>
-              My most recent half-decade of professional years have been spent in Javascript and{' '}
-              <em>TypeScript</em>, mostly in <em>React</em>. I truly enjoy working within
-              JavaScript, learning about JavaScript, and how the web works as a whole. I have also
-              touched so much else of <em>modern front-end and full-stack tooling</em> ranging from{' '}
-              <em>Next</em>, <em>Vue</em>, <em>Go</em>, <em>Astro</em>, <em>Tailwind</em>,{' '}
-              <em>GraphQL</em>, various headless CMSs, various component libraries, and more.
+              My most recent 6+ years of professional work have been spent in Javascript and{' '}
+              <em>TypeScript</em>, mostly in <em>React</em> and lately, <em>Next</em>. I truly enjoy
+              working within the JavaScript ecosystem, learning about JavaScript, and how the web
+              works as a whole.
             </p>
 
             <p>
-              Before narrowing my focus on modern, JavaScript-centered web development, I spent five
-              years managing PHP-based websites, a time before the rise of React and contemporary
-              front-end tooling. While the majority of my experience is in front-end development, I
-              also have experience in back-end with Laravel, Go, and Node.
+              In addiiton to React, I have also touched so much else of{' '}
+              <em>modern front-end and full-stack tooling</em> including <em>Vue</em>,{' '}
+              <em>Laravel</em>, <em>Go</em>, <em>Astro</em>, <em>GraphQL</em>, various headless
+              CMSes, various component libraries, and more.
             </p>
 
             <p>
@@ -53,7 +52,7 @@ const Home = () => {
             <Social
               linkedin="https://www.linkedin.com/in/gavin-gregory-7aa3b557/"
               github="https://github.com/gavgrego"
-              email="gavgrego@gmail.com"
+              email="gavin.a.gregory@gmail.com"
             />
           </div>
         </div>
