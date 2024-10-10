@@ -2,7 +2,7 @@ import Social from './components/Social'
 
 const Home = () => {
   return (
-    <main className="md:py-8 py-2 bg-cream-100">
+    <main className="md:py-8 py-2 bg-cream-100 min-h-screen">
       <div className=" text-black">
         <div className="container flex flex-col justify-center h-full py-4">
           <div className="flex flex-col mb-6">
