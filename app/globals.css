@@ -4,21 +4,22 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer base {
   p {
-    font-family: "Proxima Nova", system-ui, sans-serif;
+    font-family: 'Proxima Nova', system-ui, sans-serif;
   }
   h1 {
-    font-family: "Bungee", system-ui, sans-serif;
-
+    font-family: 'Bungee', system-ui, sans-serif;
   }
   h2 {
     font-weight: 600;
   }
   em {
     font-weight: 500;
-    text-decoration: underline;
+  }
+
+  a {
+    @apply underline text-purple-400;
   }
 }
 
@@ -38,11 +39,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
+  background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
     rgb(var(--background-start-rgb));
 }
 

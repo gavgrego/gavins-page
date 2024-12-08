@@ -40,6 +40,15 @@ const Home = () => {
               always striving to be better.
             </p>
 
+            <p>
+              ❗ Currently, I'm focusing on helping current and new clients succeed with their new
+              and existing enterprise-level web applications and websites via my company,{' '}
+              <a className="font-semibold" href="https://www.thecomponent.studio/" target="_blank">
+                The Component Studio
+              </a>
+              .
+            </p>
+
             <div className="flex flex-row gap-4">
               <p className="bg-tie-dye bg-top rounded-md  font-semibold text-cream-100  text-sm p-4 leading-6 shadow-md">
                 I have resided in the San Francisco Bay Area in beautiful Marin County with my wife

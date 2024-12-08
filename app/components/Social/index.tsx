@@ -30,7 +30,11 @@ const Social = ({ ...props }: SocialProps) => {
 
       <Modal
         trigger={
-          <EnvelopeSimple size={32} weight="bold" className="cursor-pointer hover:opacity-60" />
+          <EnvelopeSimple
+            size={32}
+            weight="bold"
+            className="cursor-pointer hover:opacity-60 text-purple-400"
+          />
         }
       >
         <div className="flex flex-col gap-4">
