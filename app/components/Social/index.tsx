@@ -25,16 +25,12 @@ const Social = ({ ...props }: SocialProps) => {
   return (
     <div className="flex flex-row gap-3">
       <a href={props.github} target="_blank">
-        <GithubLogo size={32} weight="bold" className="cursor-pointer hover:opacity-60" />
+        <GithubLogo size={20} weight="bold" className="cursor-pointer hover:opacity-60" />
       </a>
 
       <Modal
         trigger={
-          <EnvelopeSimple
-            size={32}
-            weight="bold"
-            className="cursor-pointer hover:opacity-60 text-purple-400"
-          />
+          <EnvelopeSimple size={20} weight="bold" className="cursor-pointer hover:opacity-60" />
         }
       >
         <div className="flex flex-col gap-4">
@@ -42,7 +38,7 @@ const Social = ({ ...props }: SocialProps) => {
             <div className="flex flex-row gap-1 ">
               <p>{props.email}</p>
               <Copy
-                size={16}
+                size={20}
                 className="cursor-pointer"
                 onClick={() => copyToClipboard(props.email)}
               />
@@ -59,12 +55,12 @@ const Social = ({ ...props }: SocialProps) => {
       </Modal>
 
       <a target="_blank" href={props.linkedin} className="hover:opacity-60">
-        <LinkedinLogo size={32} weight="bold" className="cursor-pointer" />
+        <LinkedinLogo size={20} weight="bold" className="cursor-pointer" />
       </a>
 
-      <a href="gavin-gregory-resume.pdf" target="_blank" className="hover:opacity-60">
-        <File size={32} weight="bold" />
-      </a>
+      {/* <a href="gavin-gregory-resume.pdf" target="_blank" className="hover:opacity-60">
+        <File size={20} weight="bold" />
+      </a> */}
     </div>
   )
 }
