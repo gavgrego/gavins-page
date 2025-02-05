@@ -19,8 +19,8 @@ const Home = () => {
             </p>
 
             <p>
-              These days I am mostly interested in server-driven UI JavaScript frameworks,
-              TypeScript, and spinning up a side project or two a year.
+              These days I am mostly interested in server-driven UI JavaScript frameworks like
+              Next.js, TypeScript, React.js, and spinning up a side project or two a year.
             </p>
 
             <p>
@@ -35,9 +35,9 @@ const Home = () => {
             <div className="flex flex-row gap-4">
               <p className="bg-tie-dye bg-top rounded-md  font-semibold text-cream-100  text-sm p-4 leading-6 shadow-md">
                 I have resided in the San Francisco Bay Area in beautiful Marin County with my wife
-                since the Summer of 2021, previously residing in Indianapolis, Indiana. I love
-                traveling, writing, photography, spending time outside, going to concerts, and
-                spinning up a side project or two a year.
+                since the Summer of 2021, previously residing in Indianapolis, Indiana. In addition
+                to coding,I love traveling, writing, photography, spending time outside, and going
+                to concerts.
               </p>
             </div>
 
