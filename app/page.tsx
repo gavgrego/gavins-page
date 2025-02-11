@@ -20,7 +20,7 @@ const Home = () => {
 
             <p>
               These days I am mostly interested in server-driven UI JavaScript frameworks like
-              Next.js, TypeScript, React.js, and spinning up a side project or two a year.
+              Next.js, TypeScript, React.js, Go, and spinning up a side project or two a year.
             </p>
 
             <p>
@@ -36,7 +36,7 @@ const Home = () => {
               <p className="bg-tie-dye bg-top rounded-md  font-semibold text-cream-100  text-sm p-4 leading-6 shadow-md">
                 I have resided in the San Francisco Bay Area in beautiful Marin County with my wife
                 since the Summer of 2021, previously residing in Indianapolis, Indiana. In addition
-                to coding,I love traveling, writing, photography, spending time outside, and going
+                to coding, I love traveling, writing, photography, spending time outside, and going
                 to concerts.
               </p>
             </div>
